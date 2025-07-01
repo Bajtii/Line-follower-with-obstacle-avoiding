@@ -91,7 +91,8 @@ The robot uses a **hybrid control algorithm** that combines **line following** a
 
 ## 📄 Technical Documentation
 
-Full technical documentation is available in the attached engineering thesis (PDF).
+📎 [Download Full Report (PDF)](https://github.com/Bajtii/Line-follower-with-obstacle-avoiding/blob/main/Linefollower_documentation.pdf)  
+Includes hardware schematics, control algorithm explanation, sensor placement, and performance test results.
 
 ---
 
